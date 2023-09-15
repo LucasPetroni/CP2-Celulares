@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap");
+
+.container-chamados {
+  text-align: center;
+  margin: 50px;
+  height: 700vh;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5em;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: #000000;
+  text-align: center;
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 2em;
+  font-family: "Roboto", sans-serif;
+}
+
+.Tabela {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 25px;
+}
+
+.Tabela th,
+.Tabela td {
+  padding: 1.3vh;
+  border-bottom: 1px solid #000000;
+}
+
+.Tabela th {
+  background-color: #bf0f3e;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+}
+
+.Tabela img {
+  max-width: 300px;
+  height: auto;
+}
+
+.Tabela a {
+  text-decoration: none;
+  color: #000;
+}
+
+.custom-button {
+  background-color: #bf0f3e;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.custom-button:hover {
+  background-color: #ff5470;
+}

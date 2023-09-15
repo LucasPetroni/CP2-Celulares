@@ -1,0 +1,56 @@
+.container12 {
+  height: 150vh;
+}
+
+.container-produto-detalhes {
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin: 30px;
+  font-size: 34px;
+  text-align: center;
+}
+
+.containerProd {
+  display: flex;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.imagem-prod {
+  flex: 1;
+  text-align: left;
+}
+
+.imagem-prod img {
+  height: 700px;
+  width: 700px;
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.caracteriscas {
+  flex: 1;
+  text-align: left;
+  font-size: 16px;
+  color: #333;
+}
+
+.caracteriscas {
+  flex: 1;
+  text-align: left;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.caracteriscas img {
+  max-width: 100px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
