@@ -32,7 +32,7 @@ export default function Home() {
                   é cuidadosamente selecionado e testado para garantir
                   desempenho e confiabilidade excepcionais. Estamos ansiosos
                   para ser parte da sua jornada tecnológica e tornar a
-                  experiência de compra na St Petroni memorável e gratificante.
+                  experiência de compra na St Petroni memorável e gratificante FODA.
                 </p>
                 <button>
                   <Link to="/produtos">Produtos</Link>
