@@ -1,7 +1,7 @@
 export const ListaProdutos = [
   {
     id: 1,
-    img: "../public/celular1.png",
+    img: "https://planoscelular.claro.com.br/medias/18252-0-zero-300Wx300H-productCard?context=bWFzdGVyfGltYWdlc3w2NDI3MXxpbWFnZS9wbmd8YURSakwyaGxOaTg1TXpJd056azROakUzTmpNd0x6RTRNalV5WHpCZmVtVnliMTh6TURCWGVETXdNRWhmY0hKdlpIVmpkRU5oY21RfDY5OWRhNGI5YjFmNWMzMjRiMGY5NzQ1NWYxZjA1ZTVlNjljOTBhYTY5MWI4MWJkZjExMWY4Mzk0MmUxZGExODg",
     preco: "R$ 1.000,00",
     armaz: "128GB",
     marca: "../public/apple.png",
@@ -10,7 +10,7 @@ export const ListaProdutos = [
   },
   {
     id: 2,
-    img: "../public/celular2.png",
+    img: "https://planoscelular.claro.com.br/medias/18005-0-zero-515Wx515H-productMain?context=bWFzdGVyfGltYWdlc3wxNTg3MTZ8aW1hZ2UvcG5nfGFHSmxMMmhrWmk4NU16SXdOemt6T1RNeE9EQTJMekU0TURBMVh6QmZlbVZ5YjE4MU1UVlhlRFV4TlVoZmNISnZaSFZqZEUxaGFXNHw1Njg1YTAwNzE4YTBlNWMzZGU4OGQ4NzZjMzMyYWJiNWEzZmE1MzVhNzg2MTYzNDQzZDQzYjRjNmEyODI1YWNk",
     preco: "R$ 1.200,00",
     armaz: "256GB",
     marca: "../public/apple.png",
@@ -19,7 +19,7 @@ export const ListaProdutos = [
   },
   {
     id: 3,
-    img: "../public/celular3.jpg",
+    img: "https://planoscelular.claro.com.br/medias/18375-0-zero-515Wx515H-productMain?context=bWFzdGVyfGltYWdlc3wxODAyMzV8aW1hZ2UvcG5nfGFHRmhMMmhsWlM4NU1qWTNORFk0TlRrNU16STJMekU0TXpjMVh6QmZlbVZ5YjE4MU1UVlhlRFV4TlVoZmNISnZaSFZqZEUxaGFXNHxjMzlkZWM3YWZlYjI3NGM3MzMxNjNiOWU5NTkyODk3MGYyMTMxMTY0YzEzNmY5M2I1NTMzM2VkZjAxNjdlOTVh",
     preco: "R$ 1.500,00",
     armaz: "512GB",
     marca: "../public/apple.png",
@@ -28,7 +28,7 @@ export const ListaProdutos = [
   },
   {
     id: 4,
-    img: "../public/celular4.PNG",
+    img: "https://planoscelular.claro.com.br/medias/18260-0-zero-300Wx300H-productCard?context=bWFzdGVyfGltYWdlc3w4MTM2N3xpbWFnZS9wbmd8YURZeUwyZ3hZaTg1TXpVMU5qSTFPVEl5TlRrd0x6RTRNall3WHpCZmVtVnliMTh6TURCWGVETXdNRWhmY0hKdlpIVmpkRU5oY21RfDFjMjhjZjdjNzU1YjAyMDczZDRkNWQyN2VjNDE5MWQ4NDU1ZGIzMmVhMGM4MzdkMDA4NzljNWMxMmU3YzBjYWU",
     preco: "R$ 900,00",
     armaz: "128GB",
     marca: "../public/samsung.png",
@@ -37,7 +37,7 @@ export const ListaProdutos = [
   },
   {
     id: 5,
-    img: "../public/celular5.jpg",
+    img: "https://planoscelular.claro.com.br/medias/18519-0-zero-300Wx300H-productCard?context=bWFzdGVyfGltYWdlc3w5NTI2NXxpbWFnZS9wbmd8YUdVNUwyZzNPUzg1TlRBeU56TXpNamN4TURjd0x6RTROVEU1WHpCZmVtVnliMTh6TURCWGVETXdNRWhmY0hKdlpIVmpkRU5oY21RfDhiYmM4NzFjNzM1YjQ5YWZlN2RhZjQ5OGMwNWU0NmQzNjg2OWQ3NjNhODM5NjNmYWRiNGYyOGZhYjRkN2I0NGM",
     preco: "R$ 1.100,00",
     armaz: "256GB",
     marca: "../public/samsung.png",
@@ -46,7 +46,7 @@ export const ListaProdutos = [
   },
   {
     id: 6,
-    img: "../public/celular6.png",
+    img: "https://planoscelular.claro.com.br/medias/18297-0-zero-515Wx515H-productMain?context=bWFzdGVyfGltYWdlc3wxNTQyMTV8aW1hZ2UvcG5nfGFHWmtMMmc1TkM4NU5qa3lOamszTWprMk9USTJMekU0TWprM1h6QmZlbVZ5YjE4MU1UVlhlRFV4TlVoZmNISnZaSFZqZEUxaGFXNHxhODdhZDE3ZWVmOTVlYTVlNzQ3ZjQzYWMyN2JhN2Q5MWFhZWEzYTNmOTRkMjgxYjA5NWEzNjA1NjJhNzhlYzkz",
     preco: "R$ 1.800,00",
     armaz: "1TB",
     marca: "../public/apple.png",
